@@ -1,0 +1,1 @@
+gcc -o VMtranslator VMtranslator.c VMtranslator_functions.c
